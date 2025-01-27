@@ -9,6 +9,7 @@ WORKSHOP NOTES
 ##Initial plan (written before coding)
 Working with the random user API, an API that generates random information including name, gender, location and a headshot, I decided to make a front-end that presents all the information in a passport-esque manner.
 https://randomuser.me/api/?format=json
+
 ##Process
 Beginning by following the workshop steps, and running a test with a Kanye West quote generator, I moved onto pulling data from the more complex random user API.
   ![79](https://github.com/user-attachments/assets/9443ca89-fa83-4dd9-861e-8ba943c9085c)
