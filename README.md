@@ -32,5 +32,6 @@ At this point, I realised that the if statement wasn’t working correctly, only
  ![image](https://github.com/user-attachments/assets/ee75e3f4-b2ca-437f-83a7-f410890c16cc)
 
 ##Problems and possible developement 
-Aside from the unintentional creation of the stalkertron.5000, applying pixel filters to emulate CRT graphics would have tied this work together nicely. The non functional if/else statement is something that I don't understand, and likely just needs a small syntax fix, which I unfortunately cannot find the time to do.
+
+Aside from the major problem that the unintentional creation of the stalkertron.5000 poses to this code on a conceptual level, applying pixel filters to emulate CRT graphics would have tied this work together nicely. The non functional if/else statement is something that I don't understand, and likely just needs a small syntax fix, which I unfortunately cannot find the time to do.
 On the whole, the retrieval and interaction with the API were simple, aside from the complications arising from pulling jpg. files from urls
