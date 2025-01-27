@@ -1,16 +1,17 @@
-#WORKSHOP NUMBER 8
-#TASK
+# WORKSHOP NUMBER 8
+# TASK
 •	Create a sketch that makes an API call to gather data from an external source. Here is a list of free-to-use APIsLinks to an external site.which do not require authentication.
 •	Visual elements of the sketch should be determined by data retrieved from the external source.
 •	Make a new repository for your p5.js project on your GitHub account, publish your sketch as a webpage, and include a README file in your repository with a URL to the webpage along with documentation of your work.
 
-WORKSHOP NOTES
 
-##Initial plan (written before coding)
+https://92386682.github.io/Workshop_Task_8/
+
+## Initial plan (written before coding)
 Working with the random user API, an API that generates random information including name, gender, location and a headshot, I decided to make a front-end that presents all the information in a passport-esque manner.
 https://randomuser.me/api/?format=json
 
-##Process
+## Process
 Beginning by following the workshop steps, and running a test with a Kanye West quote generator, I moved onto pulling data from the more complex random user API.
   ![79](https://github.com/user-attachments/assets/9443ca89-fa83-4dd9-861e-8ba943c9085c)
 
